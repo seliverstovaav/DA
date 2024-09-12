@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+analysis)](https://git.io/typing-svg)
+
+
 <h1 align="center">DA</a> 
 <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxNjc3ODIsIm5iZiI6MTcyNjE2NzQ4MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEyVDE4NTgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhODNhYzBjNzI2ZDY4MTlmODc2MTNhODFhMDRkYjBlNTYxMjBhMzcxYWUyY2U4YTAxZWE3MzgxZGNjOWE2ZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ykDmcl7O4u-rJDPJYkEgnuHpa75qSD4qetXs_CnGSV8" height="32"/></h1>
 <h3 align="center">Репозиторий для хранения материалов к ЛР по предмету "Оперативный анализ данных"</h3>
