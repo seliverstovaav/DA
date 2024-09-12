@@ -1,1 +1,0 @@
-# line_reg_metoda
