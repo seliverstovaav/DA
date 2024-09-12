@@ -1,0 +1,105 @@
+Breed,weight_high_lbs,weight_low_lbs,Classification,obey
+Saint Bernard,190,110,Fair Working/Obedience Intelligence,0.3
+Mastiff,190,175,Lowest Degree of Working/Obedience Intelligence,
+Great Dane,160,120,Average Working/Obedience Intelligence,0.5
+Newfoundland,150,100,Above Average Working Dogs,0.7
+Irish Wolfhound,150,90,Average Working/Obedience Intelligence,0.5
+Bullmastiff,130,100,Fair Working/Obedience Intelligence,0.3
+Akita,120,80,Average Working/Obedience Intelligence,0.5
+Kuvasz,120,70,Average Working/Obedience Intelligence,0.5
+Great Pyrenees,120,95,Fair Working/Obedience Intelligence,0.3
+Bloodhound,120,80,Lowest Degree of Working/Obedience Intelligence,
+Scottish Deerhound,110,75,Average Working/Obedience Intelligence,0.5
+Rottweiler,110,90,Brightest Dogs,0.95
+Bernese Mountain Dog,110,85,Excellent Working Dogs,0.85
+Doberman Pinscher,100,60,Brightest Dogs,0.95
+Borzoi,100,70,Lowest Degree of Working/Obedience Intelligence,
+Rhodesian Ridgeback,85,70,Average Working/Obedience Intelligence,0.5
+Weimaraner,85,70,Excellent Working Dogs,0.85
+English Setter,80,45,Above Average Working Dogs,0.7
+Gordon Setter,80,45,Above Average Working Dogs,0.7
+Curly Coated Retriever,80,65,Average Working/Obedience Intelligence,0.5
+Labrador Retriever,80,55,Brightest Dogs,0.95
+German Shorthaired Pointer,80,50,Excellent Working Dogs,0.85
+Briard,76,74,Above Average Working Dogs,0.7
+Chesapeake Bay Retriever,75,55,Above Average Working Dogs,0.7
+Giant Schnauzer,75,70,Above Average Working Dogs,0.7
+Golden Retriever,75,55,Brightest Dogs,0.95
+Belgian Sheepdog,75,60,Excellent Working Dogs,0.85
+Dalmatian,70,45,Above Average Working Dogs,0.7
+Irish Setter,70,60,Above Average Working Dogs,0.7
+American Foxhound,70,65,Average Working/Obedience Intelligence,0.5
+Boxer,70,65,Average Working/Obedience Intelligence,0.5
+English Foxhound,70,65,Average Working/Obedience Intelligence,0.5
+German Wirehaired Pointer,70,60,Average Working/Obedience Intelligence,0.5
+Greyhound,70,60,Average Working/Obedience Intelligence,0.5
+Saluki,70,35,Average Working/Obedience Intelligence,0.5
+Bull Terrier,70,50,Fair Working/Obedience Intelligence,0.3
+Pointer,66,44,Average Working/Obedience Intelligence,0.5
+Clumber Spaniel,65,35,Above Average Working Dogs,0.7
+Samoyed,65,50,Above Average Working Dogs,0.7
+Belgian Malinois,65,60,Excellent Working Dogs,0.85
+Irish Water Spaniel,65,45,Excellent Working Dogs,0.85
+Bearded Collie,60,40,Above Average Working Dogs,0.7
+Norwegian Elkhound,60,40,Above Average Working Dogs,0.7
+Portuguese Water Dog,60,42,Above Average Working Dogs,0.7
+Australian Shepherd,60,40,Average Working/Obedience Intelligence,0.5
+Siberian Husky,60,40,Average Working/Obedience Intelligence,0.5
+Wirehaired Pointing Griffon,60,45,Average Working/Obedience Intelligence,0.5
+Afghan Hound,60,50,Lowest Degree of Working/Obedience Intelligence,
+Pharaoh Hound,55,45,Above Average Working Dogs,0.7
+Chinese Shar Pei,55,45,Average Working/Obedience Intelligence,0.5
+Ibizan Hound,55,42,Average Working/Obedience Intelligence,0.5
+English Springer Spaniel,55,45,Excellent Working Dogs,0.85
+Chow Chow,55,45,Lowest Degree of Working/Obedience Intelligence,
+American Staffordshire Terrier,50,40,Above Average Working Dogs,0.7
+Field Spaniel,50,35,Above Average Working Dogs,0.7
+Keeshond,50,35,Excellent Working Dogs,0.85
+Basset Hound,50,40,Lowest Degree of Working/Obedience Intelligence,
+Kerry Blue Terrier,45,30,Above Average Working Dogs,0.7
+Welsh Springer Spaniel,45,35,Above Average Working Dogs,0.7
+American Water Spaniel,45,25,Average Working/Obedience Intelligence,0.5
+Australian Cattle Dog,45,35,Brightest Dogs,0.95
+Border Collie,40,40,Brightest Dogs,0.95
+Brittany,40,30,Excellent Working Dogs,0.85
+Finnish Spitz,35,31,Average Working/Obedience Intelligence,0.5
+Cardigan Welsh Corgi,35,25,Excellent Working Dogs,0.85
+Puli,33,29,Above Average Working Dogs,0.7
+Standard Schnauzer,33,33,Excellent Working Dogs,0.85
+Dachshund,32,16,Average Working/Obedience Intelligence,0.5
+Shiba Inu,30,15,Average Working/Obedience Intelligence,0.5
+Whippet,30,27,Average Working/Obedience Intelligence,0.5
+Tibetan Terrier,30,20,Fair Working/Obedience Intelligence,0.3
+Beagle,30,18,Lowest Degree of Working/Obedience Intelligence,
+Staffordshire Bull Terrier,28,24,Average Working/Obedience Intelligence,0.5
+French Bulldog,28,17,Fair Working/Obedience Intelligence,0.3
+Irish Terrier,27,25,Average Working/Obedience Intelligence,0.5
+Boston Terrier,25,15,Average Working/Obedience Intelligence,0.5
+Vizsla,25,22,Excellent Working Dogs,0.85
+Skye Terrier,25,25,Fair Working/Obedience Intelligence,0.3
+Bedlington Terrier,23,18,Average Working/Obedience Intelligence,0.5
+Pug,22,14,Fair Working/Obedience Intelligence,0.3
+Scottish Terrier,22,18,Fair Working/Obedience Intelligence,0.3
+Basenji,22,20,Lowest Degree of Working/Obedience Intelligence,
+Welsh Terrier,21,20,Average Working/Obedience Intelligence,0.5
+Cavalier King Charles Spaniel,20,15,Average Working/Obedience Intelligence,0.5
+Sealyham Terrier,20,18,Fair Working/Obedience Intelligence,0.3
+Bichon Frise,18,10,Average Working/Obedience Intelligence,0.5
+Schipperke,18,12,Excellent Working Dogs,0.85
+Lakeland Terrier,17,15,Fair Working/Obedience Intelligence,0.3
+Shih Tzu,16,9,Lowest Degree of Working/Obedience Intelligence,
+Border Terrier,15,12,Above Average Working Dogs,0.7
+Tibetan Spaniel,15,9,Average Working/Obedience Intelligence,0.5
+West Highland White Terrier,15,13,Average Working/Obedience Intelligence,0.5
+Australian Terrier,14,10,Above Average Working Dogs,0.7
+Cairn Terrier,14,14,Above Average Working Dogs,0.7
+Affenpinscher,12,8,Above Average Working Dogs,0.7
+Chinese Crested,12,5,Fair Working/Obedience Intelligence,0.3
+Dandie Dinmont Terrier,11,8,Fair Working/Obedience Intelligence,0.3
+Japanese Chin,11,4,Fair Working/Obedience Intelligence,0.3
+Papillon,10,5,Brightest Dogs,0.95
+Italian Greyhound,10,6,Fair Working/Obedience Intelligence,0.3
+Yorkshire Terrier,7,3,Above Average Working Dogs,0.7
+Pomeranian,7,3,Excellent Working Dogs,0.85
+Maltese,6,4,Fair Working/Obedience Intelligence,0.3
+Chihuahua,5,2,Fair Working/Obedience Intelligence,0.3
